@@ -1,11 +1,4 @@
-HTTP/2 200 
-content-type: text/plain;charset=UTF-8
-content-disposition: inline; filename="Playlist.m3u"
-content-encoding: gzip
-vary: Accept-Encoding,User-Agent
-date: Sat, 16 May 2026 02:17:26 GMT
-server: LiteSpeed
-alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+
 
 #EXTM3U
 x-tvg-url="https://whythishome.github.io/epg/guides/dishtv.in_en.xml.gz"
