@@ -538,9 +538,6 @@ https://alex4528.site/jplus/LIOL00L1oiOLO0iLlOil/manifest.mpd?xobypass=true
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
 https://alex4528.site/jplus/LILLLIOiO1llO0iLlOO0/manifest.mpd?xobypass=true
-
-#EXTINF:-1 tvg-id="support-channel" tvg-logo="https://ik.imagekit.io/yjtx9nh9y/IMG_20250207_083415_447.jpg" group-title="𝗦𝗨𝗣𝗣𝗢𝗥𝗧" group-logo="https://ik.imagekit.io/yjtx9nh9y/sllmnhx-telegram-6896827.svg?updatedAt=1777824421413",@xocietylive
-https://xociety-intro.vercel.app/xociety.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="ColorsCineplexBollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="Movies",Colors Cineplex Bollywood
 https://jioplaylist.yecic62314.workers.dev/live.m3u8?id=1763
