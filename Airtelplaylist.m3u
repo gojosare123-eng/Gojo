@@ -1,475 +1,1321 @@
+===== JIOTV =====
 #EXTM3U
-
-#EXTINF:-1 tvg-id="ZEE_TV_HD" group-title="Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee TV HD
-https://sflex07.fun/SFA/ZEE_TV_HD.m3u8
-
-#EXTINF:-1 tvg-id="ZEE_CINEMA_HD" group-title="Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee Cinema HD
-https://sflex07.fun/SFA/ZEE_CINEMA_HD.m3u8
-
-#EXTINF:-1 tvg-id="ACTION_CINEMA" group-title="Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ACTION_CINEMA/images/LANDSCAPE_169_HD/image.png",Action Cinema
-https://sflex07.fun/SFA/ACTION_CINEMA.m3u8
-
-#EXTINF:-1 tvg-id="ZEE_CLASSIC" group-title="Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CLASSIC/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee Classic
-https://sflex07.fun/SFA/ZEE_CLASSIC.m3u8
-
-#EXTINF:-1 tvg-id="ZING" group-title="Music" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZING/images/LANDSCAPE_169_HD/image.png",Zing
-https://sflex07.fun/SFA/ZING.m3u8
-
-#EXTINF:-1 tvg-id="STAR_UTSAV_MOVIES" group-title="Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES/images/LANDSCAPE_169_HD/image.png",STAR UTSAV MOVIES
-https://sflex07.fun/SFA/STAR_UTSAV_MOVIES.m3u8
-
-#EXTINF:-1 tvg-id="STAR_BHARAT_HD" group-title="Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_BHARAT_HD/images/LANDSCAPE_169_HD/image.png",Star Bharat HD
-https://sflex07.fun/SFA/STAR_BHARAT_HD.m3u8
-
-#EXTINF:-1 tvg-id="STAR_GOLD_HD" group-title="Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Star Gold HD
-https://sflex07.fun/SFA/STAR_GOLD_HD.m3u8
-
-#EXTINF:-1 tvg-id="STAR_GOLD_2_HD" group-title="Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_2_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Star Gold 2 HD
-https://sflex07.fun/SFA/STAR_GOLD_2_HD.m3u8
-
-#EXTINF:-1 tvg-id="STAR_GOLD_SELECT_HD" group-title="Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_SELECT_HD/images/LANDSCAPE_169_HD/image.png",Star Gold Select HD
-https://sflex07.fun/SFA/STAR_GOLD_SELECT_HD.m3u8
-
-#EXTINF:-1 tvg-id="STAR_PLUS_HD" group-title="Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_PLUS_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Star Plus HD
-https://sflex07.fun/SFA/STAR_PLUS_HD.m3u8
-
-#EXTINF:-1 tvg-id="STAR_PLUS_HD" group-title="Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_PLUS_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Star Plus HD
-https://sflex07.fun/SFA/STAR_PLUS_HD.m3u8
-
-#EXTINF:-1 tvg-id="SET_HD" group-title="Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LANDSCAPE_169_HD/image.png",SET HD
-https://sflex07.fun/SFA/SET_HD.m3u8
-
-#EXTINF:-1 tvg-id="SONY_MAX_HD" group-title="Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Sony MAX HD
-https://sflex07.fun/SFA/SONY_MAX_HD.m3u8
-
-#EXTINF:-1 tvg-id="SONY_PIX_HD" group-title="Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PIX_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Sony Pix HD
-https://sflex07.fun/SFA/SONY_PIX_HD.m3u8
-
-#EXTINF:-1 tvg-id="SONY_BBC_EARTH_HD" group-title="Infotainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_BBC_EARTH_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Sony BBC earth HD
-https://sflex07.fun/SFA/SONY_BBC_EARTH_HD.m3u8
-
-#EXTINF:-1 tvg-id="SONY_SAB_HD" group-title="Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Sony SAB HD
-https://sflex07.fun/SFA/SONY_SAB_HD.m3u8
-
-#EXTINF:-1 tvg-id="SONY_WAH" group-title="Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_WAH/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Sony Wah
-https://sflex07.fun/SFA/SONY_WAH.m3u8
-
-#EXTINF:-1 tvg-id="SONY_PAL" group-title="Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PAL/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Sony Pal
-https://sflex07.fun/SFA/SONY_PAL.m3u8
-
-#EXTINF:-1 tvg-id="SONY_YAY" group-title="Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Sony Yay
-https://sflex07.fun/SFA/SONY_YAY.m3u8
-
-#EXTINF:-1 tvg-id="7" group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-16-j5f9ui8g-v1/imageContent-16-j5f9ui8g-m1.jpg",B4U Movies
-https://sflex07.fun/SFA/7.m3u8
-
-#EXTINF:-1 tvg-id="COLORS_HD" group-title="Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Colors HD
-https://sflex07.fun/SFA/COLORS_HD.m3u8
-
-#EXTINF:-1 tvg-id="COLORS_CINEPLEX_HD" group-title="Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Colors Cineplex HD
-https://sflex07.fun/SFA/COLORS_CINEPLEX_HD.m3u8
-
-#EXTINF:-1 tvg-id="40" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-115-j5fl6g6w-v1/imageContent-115-j5fl6g6w-m1.jpg",&tv HD
-https://sflex07.fun/SFA/40.m3u8
-
-#EXTINF:-1 tvg-id="BIG_MAGIC" group-title="Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BIG_MAGIC/images/LANDSCAPE_169_HD/image.png",Big Magic
-https://sflex07.fun/SFA/BIG_MAGIC.m3u8
-
-#EXTINF:-1 tvg-id="DISCOVERY_HD_WORLD" group-title="Infotainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_HD_WORLD/images/LANDSCAPE_169_HD/image.png",Discovery HD World
-https://sflex07.fun/SFA/DISCOVERY_HD_WORLD.m3u8
-
-#EXTINF:-1 tvg-id="EPIC" group-title="Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LANDSCAPE_169_HD/image.png",Epic
-https://sflex07.fun/SFA/EPIC.m3u8
-
-#EXTINF:-1 tvg-id="HISTORY_TV18_HD" group-title="Infotainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HISTORY_TV18_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",History TV18 HD
-https://sflex07.fun/SFA/HISTORY_TV18_HD.m3u8
-
-#EXTINF:-1 tvg-id="AIRTEL_MINIPLEX" group-title="Airtel Special" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AIRTEL_MINIPLEX/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Airtel Miniplex
-https://sflex07.fun/SFA/AIRTEL_MINIPLEX.m3u8
-
-#EXTINF:-1 tvg-id="NAT_GEO_WILD_HD" group-title="Infotainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD_HD/images/LANDSCAPE_169_HD/image.png",Nat Geo Wild HD
-https://sflex07.fun/SFA/NAT_GEO_WILD_HD.m3u8
-
-#EXTINF:-1 tvg-id="JALSHA_MOVIES" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JALSHA_MOVIES/images/LANDSCAPE_169_HD/image.png",Jalsha Movies
-https://sflex07.fun/SFA/JALSHA_MOVIES.m3u8
-
-#EXTINF:-1 tvg-id="STAR_JALSHA_HD" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/HOTSTARLIVETV/LIVECHANNEL/66e879751838555841d57fcc/images/LANDSCAPE_169/LANDSCAPE_169_NYu82yUQc_STAR-JALSHA-HD.png",Star Jalsha HD
-https://sflex07.fun/SFA/STAR_JALSHA_HD.m3u8
-
-#EXTINF:-1 tvg-id="STAR_GOLD_THRILLS" group-title="Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_THRILLS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Star Gold Thrills
-https://sflex07.fun/SFA/STAR_GOLD_THRILLS.m3u8
-
-#EXTINF:-1 tvg-id="523" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11967-j9luigc0-v2/imageContent-11967-j9luigc0-m2.jpg",Zee Anmol
-https://sflex07.fun/SFA/523.m3u8
-
-#EXTINF:-1 tvg-id="64" group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11091-j95hdiq8-v1/imageContent-11091-j95hdiq8-m1.jpg",Zee Anmol Cinema
-https://sflex07.fun/SFA/64.m3u8
-
-#EXTINF:-1 tvg-id="ZEE_BHARAT" group-title="News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BHARAT/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee Bharat
-https://sflex07.fun/SFA/ZEE_BHARAT.m3u8
-
-#EXTINF:-1 tvg-id="ZEE_NEWS" group-title="News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_NEWS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee News
-https://sflex07.fun/SFA/ZEE_NEWS.m3u8
-
-#EXTINF:-1 tvg-id="ZEE_NEWS" group-title="News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_NEWS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee News
-https://sflex07.fun/SFA/ZEE_NEWS.m3u8
-
-#EXTINF:-1 tvg-id="ZEE_RAJASTHAN_NEWS" group-title="News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_RAJASTHAN_NEWS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee Rajasthan News
-https://sflex07.fun/SFA/ZEE_RAJASTHAN_NEWS.m3u8
-
-#EXTINF:-1 tvg-id="POGO" group-title="Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LANDSCAPE_169_HD/image.png",Pogo
-https://sflex07.fun/SFA/POGO.m3u8
-
-#EXTINF:-1 tvg-id="DISNEY_CHANNEL" group-title="Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LANDSCAPE_169_HD/image.png",Disney Channel
-https://sflex07.fun/SFA/DISNEY_CHANNEL.m3u8
-
-#EXTINF:-1 tvg-id="NICK_HDSYMPLUS" group-title="Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_HDSYMPLUS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",NICK HD+
-https://sflex07.fun/SFA/NICK_HDSYMPLUS.m3u8
-
-#EXTINF:-1 tvg-id="MNX_HD" group-title="Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX_HD/images/LANDSCAPE_169_HD/image.png",MNX HD
-https://sflex07.fun/SFA/MNX_HD.m3u8
-
-#EXTINF:-1 tvg-id="562" group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12093-j9ooixfs-v1/imageContent-12093-j9ooixfs-m1.jpg",Movies Now HD
-https://sflex07.fun/SFA/562.m3u8
-
-#EXTINF:-1 tvg-id="DISNEY_INTERNATIONAL_HD" group-title="Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Disney International HD
-https://sflex07.fun/SFA/DISNEY_INTERNATIONAL_HD.m3u8
-
-#EXTINF:-1 tvg-id="7" group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-16-j5f9ui8g-v1/imageContent-16-j5f9ui8g-m1.jpg",B4U Movies
-https://sflex07.fun/SFA/7.m3u8
-
-#EXTINF:-1 tvg-id="CARTOON_NETWORK" group-title="Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Cartoon Network
-https://sflex07.fun/SFA/CARTOON_NETWORK.m3u8
-
-#EXTINF:-1 tvg-id="DANGAL" group-title="Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LANDSCAPE_169_HD/image.png",Dangal
-https://sflex07.fun/SFA/DANGAL.m3u8
-
-#EXTINF:-1 tvg-id="DISCOVERY_KIDS" group-title="Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_KIDS/images/LANDSCAPE_169_HD/image.png",Discovery Kids
-https://sflex07.fun/SFA/DISCOVERY_KIDS.m3u8
-
-#EXTINF:-1 tvg-id="ZEE_BOLLYWOOD" group-title="Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BOLLYWOOD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee Bollywood
-https://sflex07.fun/SFA/ZEE_BOLLYWOOD.m3u8
-
-#EXTINF:-1 tvg-id="ALANKAR" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALANKAR/images/LANDSCAPE_169_HD/image.png",Alankar
-https://sflex07.fun/SFA/ALANKAR.m3u8
-
-#EXTINF:-1 tvg-id="730" group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/B4UKad_BoxCover-v9/B4UKad_BoxCover.jpg",B4U Kadak
-https://sflex07.fun/SFA/730.m3u8
-
-#EXTINF:-1 tvg-id="SYMANDFLIX_HD" group-title="Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",&flix HD
-https://sflex07.fun/SFA/SYMANDFLIX_HD.m3u8
-
-#EXTINF:-1 tvg-id="DANGAL_2" group-title="Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL_2/images/LANDSCAPE_169_HD/image.png",Dangal 2
-https://sflex07.fun/SFA/DANGAL_2.m3u8
-
-#EXTINF:-1 tvg-id="DISCOVERY_KIDS" group-title="Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_KIDS/images/LANDSCAPE_169_HD/image.png",Discovery Kids
-https://sflex07.fun/SFA/DISCOVERY_KIDS.m3u8
-
-#EXTINF:-1 tvg-id="DISNEY_JUNIOR" group-title="Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Disney Junior
-https://sflex07.fun/SFA/DISNEY_JUNIOR.m3u8
-
-#EXTINF:-1 tvg-id="1499" group-title="Movies" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/GoldminesMovies_BoxCover_8b2f4929-47ca-44a6-a491-9ecc80b73fb0.png",Goldmines Movies
-https://sflex07.fun/SFA/1499.m3u8
-
-#EXTINF:-1 tvg-id="HUNGAMA" group-title="Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LANDSCAPE_169_HD/image.png",HUNGAMA
-https://sflex07.fun/SFA/HUNGAMA.m3u8
-
-#EXTINF:-1 tvg-id="ISHARA_TV" group-title="Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ISHARA_TV/images/LANDSCAPE_169_HD/image.png",Ishara TV
-https://sflex07.fun/SFA/ISHARA_TV.m3u8
-
-#EXTINF:-1 tvg-id="STAR_GOLD_ROMANCE" group-title="Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_ROMANCE/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Star Gold Romance
-https://sflex07.fun/SFA/STAR_GOLD_ROMANCE.m3u8
-
-#EXTINF:-1 tvg-id="54" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-58022-khxpmalc-v1/imageContent-58022-khxpmalc-m4.png",The Q
-https://sflex07.fun/SFA/54.m3u8
-
-#EXTINF:-1 tvg-id="ZEE_ZEST_HD" group-title="Infotainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ZEST_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",ZEE ZEST HD
-https://sflex07.fun/SFA/ZEE_ZEST_HD.m3u8
-
-#EXTINF:-1 tvg-id="STAR_SPORTS_1_HD" group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD/images/LANDSCAPE_169_HD/image.png",Star Sports 1 HD
-https://sflex07.fun/SFA/STAR_SPORTS_1_HD.m3u8
-
-#EXTINF:-1 tvg-id="STAR_SPORTS_1_HD_HINDI" group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Star Sports 1 HD Hindi
-https://sflex07.fun/SFA/STAR_SPORTS_1_HD_HINDI.m3u8
-
-#EXTINF:-1 tvg-id="STAR_SPORTS_2_HD" group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2_HD/images/LANDSCAPE_169_HD/image.png",Star Sports 2 HD
-https://sflex07.fun/SFA/STAR_SPORTS_2_HD.m3u8
-
-#EXTINF:-1 tvg-id="STAR_SPORTS_3" group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Star Sports 3
-https://sflex07.fun/SFA/STAR_SPORTS_3.m3u8
-
-#EXTINF:-1 tvg-id="STAR_SPORTS_SELECT_1_HD" group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_1_HD/images/LANDSCAPE_169_HD/image.png",Star Sports Select 1 HD
-https://sflex07.fun/SFA/STAR_SPORTS_SELECT_1_HD.m3u8
-
-#EXTINF:-1 tvg-id="STAR_SPORTS_SELECT_2_HD" group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_2_HD/images/LANDSCAPE_169_HD/image.png",Star Sports Select 2 HD
-https://sflex07.fun/SFA/STAR_SPORTS_SELECT_2_HD.m3u8
-
-#EXTINF:-1 tvg-id="SONY_SPORTS_TEN_1_HD" group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",SONY SPORTS TEN 1 HD
-https://sflex07.fun/SFA/SONY_SPORTS_TEN_1_HD.m3u8
-
-#EXTINF:-1 tvg-id="SONY_SPORTS_TEN_2_HD" group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",SONY SPORTS TEN 2 HD
-https://sflex07.fun/SFA/SONY_SPORTS_TEN_2_HD.m3u8
-
-#EXTINF:-1 tvg-id="464" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11785-j9kynnm0-v3/imageContent-11785-j9kynnm0-m3.jpg",SONY SPORTS TEN 3 HD
-https://sflex07.fun/SFA/464.m3u8
-
-#EXTINF:-1 tvg-id="SONY_SPORTS_TEN_5_HD" group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",SONY SPORTS TEN 5 HD
-https://sflex07.fun/SFA/SONY_SPORTS_TEN_5_HD.m3u8
-
-#EXTINF:-1 tvg-id="SPORTS18SYMHYP3" group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SPORTS18SYMHYP3/images/LANDSCAPE_169_HD/image.png",Star Sports 2 Tamil
-https://sflex07.fun/SFA/SPORTS18SYMHYP3.m3u8
-
-#EXTINF:-1 tvg-id="COLORS_KANNADA_HD" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA_HD/images/LANDSCAPE_169_HD/image.png",Colors Kannada HD
-https://sflex07.fun/SFA/COLORS_KANNADA_HD.m3u8
-
-#EXTINF:-1 tvg-id="COLORS_KANNADA_CINEMA" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA_CINEMA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Colors Kannada Cinema
-https://sflex07.fun/SFA/COLORS_KANNADA_CINEMA.m3u8
-
-#EXTINF:-1 tvg-id="COLORS_SUPER" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_SUPER/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Colors Super
-https://sflex07.fun/SFA/COLORS_SUPER.m3u8
-
-#EXTINF:-1 tvg-id="1380" group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/News21_BoxCover-v1/News21_BoxCover.png",News 21
-https://sflex07.fun/SFA/1380.m3u8
-
-#EXTINF:-1 tvg-id="425" group-title="Regional" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11680-j9khxjoo-v1/imageContent-11680-j9khxjoo-m1.jpg",Raj Musix
-https://sflex07.fun/SFA/425.m3u8
-
-#EXTINF:-1 tvg-id="RAJ_NEWS_KANNADA" group-title="News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_NEWS_KANNADA/images/LANDSCAPE_169_HD/image.png",Raj News Kannada
-https://sflex07.fun/SFA/RAJ_NEWS_KANNADA.m3u8
-
-#EXTINF:-1 tvg-id="STAR_SUVARNA_HD" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SUVARNA_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Star Suvarna HD
-https://sflex07.fun/SFA/STAR_SUVARNA_HD.m3u8
-
-#EXTINF:-1 tvg-id="STAR_SUVARNA" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SUVARNA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",STAR SUVARNA
-https://sflex07.fun/SFA/STAR_SUVARNA.m3u8
-
-#EXTINF:-1 tvg-id="TV9_KANNADA" group-title="News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_KANNADA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",TV9 Kannada
-https://sflex07.fun/SFA/TV9_KANNADA.m3u8
-
-#EXTINF:-1 tvg-id="UDAYA_HD" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_HD/images/LANDSCAPE_169_HD/image.png",Udaya HD
-https://sflex07.fun/SFA/UDAYA_HD.m3u8
-
-#EXTINF:-1 tvg-id="UDAYA_COMEDY" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_COMEDY/images/LANDSCAPE_169_HD/image.png",Udaya Comedy
-https://sflex07.fun/SFA/UDAYA_COMEDY.m3u8
-
-#EXTINF:-1 tvg-id="UDAYA_MOVIES" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_MOVIES/images/LANDSCAPE_169_HD/image.png",UDAYA MOVIES
-https://sflex07.fun/SFA/UDAYA_MOVIES.m3u8
-
-#EXTINF:-1 tvg-id="SUN_NEWS" group-title="News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_NEWS/images/LANDSCAPE_169_HD/image.png",Sun News
-https://sflex07.fun/SFA/SUN_NEWS.m3u8
-
-#EXTINF:-1 tvg-id="ZEE_TV_HD" group-title="Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee TV HD
-https://sflex07.fun/SFA/ZEE_TV_HD.m3u8
-
-#EXTINF:-1 tvg-id="DD_CHANDANA" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_CHANDANA/images/LANDSCAPE_169_HD/image.png",DD Chandana
-https://sflex07.fun/SFA/DD_CHANDANA.m3u8
-
-#EXTINF:-1 tvg-id="UDAYA_MUSIC" group-title="Music" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_UDAYA_MUSIC/images/LANDSCAPE_169_HD/image.png",Udaya Music
-https://sflex07.fun/SFA/UDAYA_MUSIC.m3u8
-
-#EXTINF:-1 tvg-id="342" group-title="Regional" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RKANN_BoxCover-v2/RKANN_BoxCover.png",R Kannada
-https://sflex07.fun/SFA/342.m3u8
-
-#EXTINF:-1 tvg-id="PUBLIC_TV" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_TV/images/LANDSCAPE_169_HD/image.png",Public TV
-https://sflex07.fun/SFA/PUBLIC_TV.m3u8
-
-#EXTINF:-1 tvg-id="ZEE_KANNADA_HD" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_KANNADA_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee Kannada HD
-https://sflex07.fun/SFA/ZEE_KANNADA_HD.m3u8
-
-#EXTINF:-1 tvg-id="COLORS_MARATHI_HD" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_MARATHI_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Colors Marathi HD
-https://sflex07.fun/SFA/COLORS_MARATHI_HD.m3u8
-
-#EXTINF:-1 tvg-id="SANGEET_MARATHI" group-title="Music" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANGEET_MARATHI/images/LANDSCAPE_169_HD/image.png",Sangeet Marathi
-https://sflex07.fun/SFA/SANGEET_MARATHI.m3u8
-
-#EXTINF:-1 tvg-id="SONY_MARATHI" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MARATHI/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Sony Marathi
-https://sflex07.fun/SFA/SONY_MARATHI.m3u8
-
-#EXTINF:-1 tvg-id="SONY_8" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_8/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",SONY AATH
-https://sflex07.fun/SFA/SONY_8.m3u8
-
-#EXTINF:-1 tvg-id="SUN_MARATHI_HD" group-title="Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_MARATHI_HD/images/LANDSCAPE_169_HD/image.png",Sun Marathi HD
-https://sflex07.fun/SFA/SUN_MARATHI_HD.m3u8
-
-#EXTINF:-1 tvg-id="ZEE_MARATHI_HD" group-title="Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_MARATHI_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee Marathi HD
-https://sflex07.fun/SFA/ZEE_MARATHI_HD.m3u8
-
-#EXTINF:-1 tvg-id="ZEE_TALKIES_HD" group-title="Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee Talkies HD
-https://sflex07.fun/SFA/ZEE_TALKIES_HD.m3u8
-
-#EXTINF:-1 tvg-id="DD_SAHYADRI" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SAHYADRI/images/LANDSCAPE_169_HD/image.png",DD Sahyadri
-https://sflex07.fun/SFA/DD_SAHYADRI.m3u8
-
-#EXTINF:-1 tvg-id="ZEE_24_TAAS" group-title="News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_24_TAAS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee 24 Taas
-https://sflex07.fun/SFA/ZEE_24_TAAS.m3u8
-
-#EXTINF:-1 tvg-id="TV9_MARATHI" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_MARATHI/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",TV9 Marathi
-https://sflex07.fun/SFA/TV9_MARATHI.m3u8
-
-#EXTINF:-1 tvg-id="192" group-title="Regional" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-799-j5m7jg34-v2/imageContent-799-j5m7jg34-m2.jpg",Fakt Marathi
-https://sflex07.fun/SFA/192.m3u8
-
-#EXTINF:-1 tvg-id="ABP_MAJHA" group-title="News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ABP_MAJHA/images/LANDSCAPE_169_HD/image.png",ABP Majha
-https://sflex07.fun/SFA/ABP_MAJHA.m3u8
-
-#EXTINF:-1 tvg-id="CHARDIKLA_TIME_TV" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHARDIKLA_TIME_TV/images/LANDSCAPE_169_HD/image.png",Chardikla Time TV
-https://sflex07.fun/SFA/CHARDIKLA_TIME_TV.m3u8
-
-#EXTINF:-1 tvg-id="CHARDIKLA_TIME_TV" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHARDIKLA_TIME_TV/images/LANDSCAPE_169_HD/image.png",Chardikla Time TV
-https://sflex07.fun/SFA/CHARDIKLA_TIME_TV.m3u8
-
-#EXTINF:-1 tvg-id="DD_PUNJABI" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_PUNJABI/images/LANDSCAPE_169_HD/image.png",DD Punjabi
-https://sflex07.fun/SFA/DD_PUNJABI.m3u8
-
-#EXTINF:-1 tvg-id="791" group-title="Regional" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48802-k4m7nz2w-v1/imageContent-48802-k4m7nz2w-m1.jpg",Fateh TV
-https://sflex07.fun/SFA/791.m3u8
-
-#EXTINF:-1 tvg-id="366" group-title="Regional" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/INWPUB_BoxCover-v2/INWPUB_BoxCover.png",India News Punjab
-https://sflex07.fun/SFA/366.m3u8
-
-#EXTINF:-1 tvg-id="NDTV_INDIA" group-title="News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_INDIA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",NDTV India
-https://sflex07.fun/SFA/NDTV_INDIA.m3u8
-
-#EXTINF:-1 tvg-id="1060" group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/LIVPU_BoxCover-v1/LIVPU_BoxCover.jpg",Live Punjabi
-https://sflex07.fun/SFA/1060.m3u8
-
-#EXTINF:-1 tvg-id="LIVING_INDIA_NEWS" group-title="News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_LIVING_INDIA_NEWS/images/LANDSCAPE_169_HD/image.png",Living India News
-https://sflex07.fun/SFA/LIVING_INDIA_NEWS.m3u8
-
-#EXTINF:-1 tvg-id="FM_NEWS" group-title="News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FM_NEWS/images/LANDSCAPE_169_HD/image.png",FM NEWS
-https://sflex07.fun/SFA/FM_NEWS.m3u8
-
-#EXTINF:-1 tvg-id="MH_ONE_SHRADDHA" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MH_ONE_SHRADDHA/images/LANDSCAPE_169_HD/image.png",MH One Shraddha
-https://sflex07.fun/SFA/MH_ONE_SHRADDHA.m3u8
-
-#EXTINF:-1 tvg-id="NEWS18_PUNJAB_HARYANA" group-title="News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_PUNJAB_HARYANA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",News18 Punjab Haryana
-https://sflex07.fun/SFA/NEWS18_PUNJAB_HARYANA.m3u8
-
-#EXTINF:-1 tvg-id="PITAARA" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LANDSCAPE_169_HD/image.png",Pitaara
-https://sflex07.fun/SFA/PITAARA.m3u8
-
-#EXTINF:-1 tvg-id="PTC_CHAKDE" group-title="Music" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_CHAKDE/images/LANDSCAPE_169_HD/image.png",PTC Chakde
-https://sflex07.fun/SFA/PTC_CHAKDE.m3u8
-
-#EXTINF:-1 tvg-id="PTC_NEWS" group-title="News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_NEWS/images/LANDSCAPE_169_HD/image.png",PTC News
-https://sflex07.fun/SFA/PTC_NEWS.m3u8
-
-#EXTINF:-1 tvg-id="PTC_PUNJABI" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI/images/LANDSCAPE_169_HD/image.png",PTC Punjabi
-https://sflex07.fun/SFA/PTC_PUNJABI.m3u8
-
-#EXTINF:-1 tvg-id="PTC_PUNJABI" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI/images/LANDSCAPE_169_HD/image.png",PTC Punjabi
-https://sflex07.fun/SFA/PTC_PUNJABI.m3u8
-
-#EXTINF:-1 tvg-id="PTC_SIMRAN" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_SIMRAN/images/LANDSCAPE_169_HD/image.png",PTC Simran
-https://sflex07.fun/SFA/PTC_SIMRAN.m3u8
-
-#EXTINF:-1 tvg-id="571" group-title="Regional" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-68738-kywk7u6g-v1/imageContent-68738-kywk7u6g-m1.png",Tata Play Punjab De Rang
-https://sflex07.fun/SFA/571.m3u8
-
-#EXTINF:-1 tvg-id="ZEE_PUNJAB_HARYANA_HIMACHAL" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_PUNJAB_HARYANA_HIMACHAL/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee Punjab Haryana Himachal
-https://sflex07.fun/SFA/ZEE_PUNJAB_HARYANA_HIMACHAL.m3u8
-
-#EXTINF:-1 tvg-id="ZEE_PUNJABI" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_PUNJABI/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee Punjabi
-https://sflex07.fun/SFA/ZEE_PUNJABI.m3u8
-
-#EXTINF:-1 tvg-id="PERMAN_kid" group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ40BGblxkPEXTTm9ei2y2TLok6LsxuyO4_AQ&s",PERMAN HINDI
-https://sflex07.fun/SFA/PERMAN_kid.m3u8
-
-#EXTINF:-1 tvg-id="MASHA_AND_BEAR_kid" group-title="Kids" tvg-logo="https://play-lh.googleusercontent.com/x-0xi5j42U7XuvyoPQBTSjGjA_a8yA_nkgqlgm0VjykuzySBBP9kczwh0YpCRU_x51o=w526-h296-rw",MASHA AND BEAR
-https://sflex07.fun/SFA/MASHA_AND_BEAR_kid.m3u8
-
-#EXTINF:-1 tvg-id="NINJA_HATTORI_kid" group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKYvUxQgr_Mr_lGGrYbMWNG2Becq-_iCqnJg&s",NINJA HATTORI RETURNS HINDI
-https://sflex07.fun/SFA/NINJA_HATTORI_kid.m3u8
-
-#EXTINF:-1 tvg-id="NINJA_kid" group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKYvUxQgr_Mr_lGGrYbMWNG2Becq-_iCqnJg&s",NINJA HATTORI HINDI
-https://sflex07.fun/SFA/NINJA_kid.m3u8
-
-#EXTINF:-1 tvg-id="SHINCHAN_kid" group-title="Kids" tvg-logo="https://www.partysuppliesindia.com/cdn/shop/products/A1_39_cdd62d5e-1c73-4b7d-a9a6-afa5cf22a7e5.jpg",SHINCHAN HINDI
-https://sflex07.fun/SFA/SHINCHAN_kid.m3u8
-
-#EXTINF:-1 tvg-id="DORAEMON_kid" group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJSPyLeBXQstZ_EwDIxE_QmD-i3yLK-5FBg&s",DORAEMON HINDI
-https://sflex07.fun/SFA/DORAEMON_kid.m3u8
-
-#EXTINF:-1 tvg-id="CVR_NEWS" group-title="News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CVR_NEWS/images/LANDSCAPE_169_HD/image.png",CVR NEWS1
-https://sflex07.fun/SFA/CVR_NEWS.m3u8
-
-#EXTINF:-1 tvg-id="BHAKTI_TV" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHAKTI_TV/images/LANDSCAPE_169_HD/image.png",Bhakti TV
-https://sflex07.fun/SFA/BHAKTI_TV.m3u8
-
-#EXTINF:-1 tvg-id="ETV_CINEMA" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_CINEMA/images/LANDSCAPE_169_HD/image.png",ETV Cinema
-https://sflex07.fun/SFA/ETV_CINEMA.m3u8
-
-#EXTINF:-1 tvg-id="ETV_HD" group-title="Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_HD/images/LANDSCAPE_169_HD/image.png",ETV HD
-https://sflex07.fun/SFA/ETV_HD.m3u8
-
-#EXTINF:-1 tvg-id="GEMINI_TV_HD" group-title="Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_TV_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Gemini TV HD
-https://sflex07.fun/SFA/GEMINI_TV_HD.m3u8
-
-#EXTINF:-1 tvg-id="GEMINI_MOVIES_HD" group-title="Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_MOVIES_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Gemini Movies HD
-https://sflex07.fun/SFA/GEMINI_MOVIES_HD.m3u8
-
-#EXTINF:-1 tvg-id="GEMINI_COMEDY" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_COMEDY/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Gemini Comedy
-https://sflex07.fun/SFA/GEMINI_COMEDY.m3u8
-
-#EXTINF:-1 tvg-id="STAR_MAA_MOVIES_HD" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA_MOVIES_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Star Maa Movies HD
-https://sflex07.fun/SFA/STAR_MAA_MOVIES_HD.m3u8
-
-#EXTINF:-1 tvg-id="RAJ_MUSIX_TELUGU" group-title="Music" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TELUGU/images/LANDSCAPE_169_HD/image.png",Raj Musix Telugu
-https://sflex07.fun/SFA/RAJ_MUSIX_TELUGU.m3u8
-
-#EXTINF:-1 tvg-id="RAJ_NEWS_TELUGU" group-title="News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_NEWS_TELUGU/images/LANDSCAPE_169_HD/image.png",Raj News Telugu
-https://sflex07.fun/SFA/RAJ_NEWS_TELUGU.m3u8
-
-#EXTINF:-1 tvg-id="SONY_BBC_EARTH_HD" group-title="Infotainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_BBC_EARTH_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Sony BBC earth HD
-https://sflex07.fun/SFA/SONY_BBC_EARTH_HD.m3u8
-
-#EXTINF:-1 tvg-id="STAR_MAA_GOLD" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA_GOLD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",STAR MAA GOLD
-https://sflex07.fun/SFA/STAR_MAA_GOLD.m3u8
-
-#EXTINF:-1 tvg-id="STAR_MAA_HD" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA_HD/images/LANDSCAPE_169_HD/image.png",Star MAA HD
-https://sflex07.fun/SFA/STAR_MAA_HD.m3u8
-
-#EXTINF:-1 tvg-id="497" group-title="Regional" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11910-j9l58n8w-v2/imageContent-11910-j9l58n8w-m5.jpg",VTV News
-https://sflex07.fun/SFA/497.m3u8
-
-#EXTINF:-1 tvg-id="V6_NEWS" group-title="News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_V6_NEWS/images/LANDSCAPE_169_HD/image.png",V6 NEWS
-https://sflex07.fun/SFA/V6_NEWS.m3u8
-
-#EXTINF:-1 tvg-id="ETV_PLUS" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_PLUS/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",ETV PLUS
-https://sflex07.fun/SFA/ETV_PLUS.m3u8
-
-#EXTINF:-1 tvg-id="ZEE_CINEMALU_HD" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMALU_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee Cinemalu HD
-https://sflex07.fun/SFA/ZEE_CINEMALU_HD.m3u8
-
-#EXTINF:-1 tvg-id="ZEE_TELUGU_HD" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU_HD/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Zee Telugu HD
-https://sflex07.fun/SFA/ZEE_TELUGU_HD.m3u8
-
-#EXTINF:-1 tvg-id="GEMINI_MUSIC" group-title="Music" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_MUSIC/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Gemini Music
-https://sflex07.fun/SFA/GEMINI_MUSIC.m3u8
-
-#EXTINF:-1 tvg-id="GEMINI_LIFE" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_LIFE/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Gemini Life
-https://sflex07.fun/SFA/GEMINI_LIFE.m3u8
-
-#EXTINF:-1 tvg-id="ETV_LIFE" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_LIFE/images/LANDSCAPE_169_HD/image.png",ETV Life
-https://sflex07.fun/SFA/ETV_LIFE.m3u8
-
-#EXTINF:-1 tvg-id="320" group-title="Regional" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11327-j9jot000-v2/imageContent-11327-j9jot000-m2.jpg",TV5 News
-https://sflex07.fun/SFA/320.m3u8
-
-#EXTINF:-1 tvg-id="266" group-title="Regional" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-17565-jclrkakg-v1/imageContent-17565-jclrkakg-m1.jpg",10 TV
-https://sflex07.fun/SFA/266.m3u8
-
-#EXTINF:-1 tvg-id="DD_SAPTAGIRI" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SAPTAGIRI/images/LANDSCAPE_169_HD/image.png",DD Saptagiri
-https://sflex07.fun/SFA/DD_SAPTAGIRI.m3u8
-
-#EXTINF:-1 tvg-id="VANITHA" group-title="News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VANITHA/images/LANDSCAPE_169_HD/image.png",Vanitha
-https://sflex07.fun/SFA/VANITHA.m3u8
-
-#EXTINF:-1 tvg-id="VISSA_TV" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VISSA_TV/images/LANDSCAPE_169_HD/image.png",Vissa TV
-https://sflex07.fun/SFA/VISSA_TV.m3u8
-
-#EXTINF:-1 tvg-id="STAR_MAA" group-title="Regional" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA/images/LANDSCAPE_169_HD/LANDSCAPE_169_HD_image.png",Star Maa
-https://sflex07.fun/SFA/STAR_MAA.m3u8
-
-#EXTINF:-1 tvg-id="SAKSHI_TV" group-title="News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAKSHI_TV/images/LANDSCAPE_169_HD/image.png",Sakshi TV
-https://sflex07.fun/SFA/SAKSHI_TV.m3u8
+#EXTINF:-1 tvg-id="1763" tvg-name="Colors Cineplex Bollywood" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Movies" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Colors Cineplex Bollywood
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/1763/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/1763/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="279" tvg-name="Colors Rishtey" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsRishtey.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Colors Rishtey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/279/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/279/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="482" tvg-name="Colors Cineplex" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Movies" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Colors Cineplex
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/482/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/482/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="545" tvg-name="Nick Hindi" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Kids" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Nick Hindi
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/545/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/545/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="1296" tvg-name="B4U Bhojpuri" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Movies" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,B4U Bhojpuri
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/1296/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/1296/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="559" tvg-name="Pogo Hindi" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Kids" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Pogo Hindi
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/559/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/559/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="173" tvg-name="Aaj Tak" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Aaj Tak
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/173/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/173/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="1450" tvg-name="Colors Cineplex Superhit" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Movies" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Colors Cineplex Superhit
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/1450/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/1450/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Colors HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/144/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/144/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="1961" tvg-name="Shemaroo TV" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_TV.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Shemaroo TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/1961/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/1961/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="3069" tvg-name="Captain" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Captain.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Captain
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/3069/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/3069/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="1403" tvg-name="Republic Bharat" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Republic_Bharat.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Republic Bharat
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/1403/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/1403/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="815" tvg-name="Sonic Hindi" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Kids" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Sonic Hindi
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/815/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/815/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="3088" tvg-name="Sun Neo HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SUN_Neo.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Sun Neo HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/3088/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/3088/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="899" tvg-name="Sun Gemini Movies HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Movies" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Sun Gemini Movies HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/899/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/899/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="3384" tvg-name="EPIC Bhojpuri" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Filamchi_Bhojpuri.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Movies" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,EPIC Bhojpuri
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/3384/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/3384/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="896" tvg-name="Sun TV HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_TV_HD.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Sun TV HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/896/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/896/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="2078" tvg-name="Shemaroo Umang" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_Umang.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Shemaroo Umang
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/2078/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/2078/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="235" tvg-name="India TV" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_TV.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,India TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/235/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/235/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="1657" tvg-name="Colors Bangla Cinema" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Movies" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Colors Bangla Cinema
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/1657/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/1657/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="816" tvg-name="Cartoon Network Hindi" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNHindi.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Kids" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Cartoon Network Hindi
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/816/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/816/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="894" tvg-name="KTV HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KTV_HD.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Movies" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,KTV HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/894/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/894/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="2774" tvg-name="Power Kids TV" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Power_Kids_TV.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Kids" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Power Kids TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/2774/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/2774/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="757" tvg-name="Colors Kannada HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Colors Kannada HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/757/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/757/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="678" tvg-name="Sun Udaya Movies" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Movies.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Movies" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Sun Udaya Movies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/678/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/678/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="3383" tvg-name="Nazara" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nazara.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Nazara
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/3383/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/3383/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="672" tvg-name="ABP Ananda" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Ananda.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,ABP Ananda
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/672/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/672/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="231" tvg-name="News 18 India" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IBN_7.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,News 18 India
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/231/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/231/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="756" tvg-name="Colors Bangla HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Colors Bangla HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/756/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/756/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="1251" tvg-name="TV9 Bharatvarsh" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,TV9 Bharatvarsh
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/1251/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/1251/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="2424" tvg-name="Sun Marathi" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Marathi.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Sun Marathi
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/2424/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/2424/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="417" tvg-name="J Movies" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Movies" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,J Movies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/417/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/417/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="177" tvg-name="ABP News India" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,ABP News India
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/177/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/177/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="504" tvg-name="Zee News" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Zee News
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/504/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/504/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="883" tvg-name="Oscar Movies" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Osar_Movies.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Movies" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Oscar Movies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/883/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/883/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="250" tvg-name="Music India" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Music" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Music India
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/250/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/250/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="741" tvg-name="Sangeet Bhojpuri" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Music" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Sangeet Bhojpuri
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/741/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/741/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="3385" tvg-name="Gubbare" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gubbare.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Kids" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Gubbare
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/3385/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/3385/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="591" tvg-name="E 24" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/E_24.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Music" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,E 24
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/591/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/591/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="1452" tvg-name="Shemaroo MarathiBana" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_MarathiBana.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Movies" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Shemaroo MarathiBana
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/1452/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/1452/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="729" tvg-name="Sun Gemini Comedy" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Comedy.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Sun Gemini Comedy
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/729/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/729/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="1956" tvg-name="Sidharth TV" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sidharth_TV.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Sidharth TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/1956/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/1956/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="1632" tvg-name="Colors Kannada Cinema" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsKannadaCinema.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Movies" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Colors Kannada Cinema
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/1632/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/1632/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="682" tvg-name="Sun Life" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Life.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Movies" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Sun Life
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/682/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/682/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="544" tvg-name="Nick Junior" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Kids" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Nick Junior
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/544/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/544/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="897" tvg-name="Sun Gemini HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Sun Gemini HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/897/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/897/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="143" tvg-name="CNBC TV18 Prime" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBCTV18Prime.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Business News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,CNBC TV18 Prime
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/143/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/143/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="146" tvg-name="History TV18 HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_HD.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Infotainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,History TV18 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/146/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/146/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="151" tvg-name="Movies Now HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now_HD.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Movies" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Movies Now HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/151/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/151/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="153" tvg-name="Zee Talkies" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeTalkies.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Movies" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Zee Talkies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/153/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/153/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="154" tvg-name="Sony SAB SD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Sony SAB SD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/154/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/154/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="155" tvg-name="Sony Ten 5 HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Sports" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Sony Ten 5 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/155/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/155/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="156" tvg-name="Star Gold HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Movies" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Star Gold HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/156/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/156/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="162" tvg-name="Sony Ten 1 HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Sports" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Sony Ten 1 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/162/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/162/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="164" tvg-name="Travelxp HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Lifestyle" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Travelxp HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/164/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/164/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeCinemaHD.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Movies" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Zee Cinema HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/165/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/165/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="166" tvg-name="Cartoon Network Telugu" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNTelugu.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Kids" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Cartoon Network Telugu
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/166/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/166/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="167" tvg-name="Zee TV HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeTVHD.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Zee TV HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/167/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/167/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="175" tvg-name="Aastha" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Devotional" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Aastha
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/175/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/175/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="180" tvg-name="Asianet News" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Asianet News
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/180/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/180/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="185" tvg-name="And Pictures HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AndPicturesHD.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Movies" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,And Pictures HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/185/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/185/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="190" tvg-name="CNBC Awaaz" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBCAwaaz.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Business News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,CNBC Awaaz
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/190/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/190/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="193" tvg-name="CNN" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,CNN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/193/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/193/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="196" tvg-name="Colors Gujarati" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsGujarati.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Colors Gujarati
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/196/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/196/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="202" tvg-name="DD National" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_National.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,DD National
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/202/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/202/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="203" tvg-name="DD News" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_News.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,DD News
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/203/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/203/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="204" tvg-name="DD Sports" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Sports" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,DD Sports
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/204/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/204/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="212" tvg-name="ET Now" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ET_Now.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Business News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,ET Now
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/212/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/212/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="232" tvg-name="News18 Marathi" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News18Lokmat.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,News18 Marathi
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/232/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/232/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="242" tvg-name="Discovery English" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Eng.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Infotainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Discovery English
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/242/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/242/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="248" tvg-name="MTV" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Music" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,MTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/248/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/248/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="252" tvg-name="ETV Cinema" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Movies" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,ETV Cinema
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/252/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/252/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="255" tvg-name="NDTV 24x7" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,NDTV 24x7
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/255/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/255/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="258" tvg-name="NDTV India" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,NDTV India
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/258/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/258/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="259" tvg-name="NDTV Profit" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Profit.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Business News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,NDTV Profit
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/259/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/259/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="286" tvg-name="Animal Planet HD English" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AnimalPlanetHDEng.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Infotainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Animal Planet HD English
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/286/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/286/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="288" tvg-name="Sanskar" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sanskar.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Devotional" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Sanskar
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/288/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/288/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="289" tvg-name="Sony Max SD" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Movies" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Sony Max SD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/289/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/289/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="290" tvg-name="sonic Tamil" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sonic_Tamil.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Kids" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,sonic Tamil
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/290/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/290/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,SET HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/291/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/291/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="317" tvg-name="Star Jalsha HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Star Jalsha HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/317/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/317/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="336" tvg-name="Star Pravah HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Pravah_HD.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Star Pravah HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/336/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/336/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="370" tvg-name="Suvarna HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Suvarna_HD.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Suvarna HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/370/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/370/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="383" tvg-name="Times NOW" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Times_NOW.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Times NOW
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/383/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/383/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="400" tvg-name="PM e Vidya 01" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/evidya_1.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Educational" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,PM e Vidya 01
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/400/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/400/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="401" tvg-name="Swayam Prabha 19" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Swayam_Prabha_19.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Educational" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Swayam Prabha 19
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/401/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/401/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="402" tvg-name="PM e Vidya 02" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/evidya_2.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Educational" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,PM e Vidya 02
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/402/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/402/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="403" tvg-name="Swayam Prabha 20" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Swayam_Prabha_20.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Educational" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Swayam Prabha 20
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/403/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/403/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="404" tvg-name="PM e Vidya 07" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/evidya_7.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Educational" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,PM e Vidya 07
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/404/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/404/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="405" tvg-name="PM e Vidya 03" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/evidya_3.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Educational" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,PM e Vidya 03
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/405/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/405/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="406" tvg-name="PM e Vidya 04" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/evidya_4.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Educational" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,PM e Vidya 04
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/406/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/406/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="407" tvg-name="PM e Vidya 05" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/evidya_5.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Educational" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,PM e Vidya 05
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/407/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/407/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="408" tvg-name="PM e Vidya 06" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/evidya_6.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Educational" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,PM e Vidya 06
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/408/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/408/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="409" tvg-name="PM e Vidya 08" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/_evidya_8.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Educational" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,PM e Vidya 08
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/409/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/409/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="410" tvg-name="PM e Vidya 09" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/evidya_9.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Educational" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,PM e Vidya 09
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/410/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/410/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="411" tvg-name="PM e Vidya 10" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/evidya_10.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Educational" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,PM e Vidya 10
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/411/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/411/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="412" tvg-name="Wion" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wion.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Wion
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/412/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/412/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="413" tvg-name="Zee Cinemalu" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeCinemalu.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Movies" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Zee Cinemalu
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/413/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/413/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="414" tvg-name="Zee Yuva" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeYuva.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Zee Yuva
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/414/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/414/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="415" tvg-name="Zee Anmol Cinema" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeAnmolCinema.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Movies" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Zee Anmol Cinema
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/415/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/415/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="418" tvg-name="Jaya Plus" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Plus.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Jaya Plus
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/418/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/418/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="419" tvg-name="Jaya TV HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Jaya TV HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/419/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/419/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="420" tvg-name="Jaya Max" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Music" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Jaya Max
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/420/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/420/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="429" tvg-name="Colors Tamil HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsTamilHD.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Colors Tamil HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/429/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/429/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="442" tvg-name="Zee 24 Taas" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Taas.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Zee 24 Taas
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/442/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/442/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="445" tvg-name="Zee Marathi" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeMarathi.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Zee Marathi
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/445/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/445/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="459" tvg-name="Asianet Movies HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Movies" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Asianet Movies HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/459/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/459/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="463" tvg-name="Discovery HD English" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryHDEng.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Infotainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Discovery HD English
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/463/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/463/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="464" tvg-name="Zee 24 Ghanta" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/24_Ghanta_TV.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Zee 24 Ghanta
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/464/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/464/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="465" tvg-name="Jaihind tv" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaihind_tv.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Jaihind tv
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/465/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/465/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="466" tvg-name="Dharma Sandesh" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Arihant_TV.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Devotional" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Dharma Sandesh
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/466/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/466/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="471" tvg-name="Sony SAB HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonySAB.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Sony SAB HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/471/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/471/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="472" tvg-name="And TV HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AndTVHD.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,And TV HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/472/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/472/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="473" tvg-name="Anmol TV" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeAnmol.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Anmol TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/473/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/473/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="474" tvg-name="Sony Pal" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyPAL.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Sony Pal
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/474/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/474/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="476" tvg-name="Sony Max HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyMAX.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Movies" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Sony Max HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/476/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/476/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="477" tvg-name="MN+ HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MNPLUS.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Movies" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,MN+ HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/477/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/477/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="479" tvg-name="TLC HD English" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLCHDEnglish.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Lifestyle" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,TLC HD English
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/479/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/479/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="483" tvg-name="Sony MAX2" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyMAX2.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Movies" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Sony MAX2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/483/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/483/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="484" tvg-name="Zee Cinema" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeCinema.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Movies" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Zee Cinema
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/484/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/484/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="487" tvg-name="Zee Bollywood" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeBollywood.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Movies" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Zee Bollywood
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/487/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/487/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="488" tvg-name="Zee Action" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeAction.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Movies" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Zee Action
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/488/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/488/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="489" tvg-name="CNBC TV18" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBCTV18.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Business News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,CNBC TV18
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/489/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/489/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="490" tvg-name="CNBC Bajar" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBCBajar.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Business News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,CNBC Bajar
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/490/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/490/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="491" tvg-name="Mirror Now" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MirrorNow.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Mirror Now
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/491/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/491/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="492" tvg-name="CNN NEWS18" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNNNEWS18.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,CNN NEWS18
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/492/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/492/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="493" tvg-name="India Today" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_Today.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,India Today
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/493/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/493/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="494" tvg-name="AL Jazeera" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,AL Jazeera
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/494/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/494/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="495" tvg-name="News X" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_X.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,News X
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/495/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/495/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="496" tvg-name="dw" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/dw.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,dw
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/496/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/496/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="498" tvg-name="India news" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_news.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,India news
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/498/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/498/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="499" tvg-name="News Nation" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Nation.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,News Nation
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/499/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/499/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="501" tvg-name="News 24" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_24.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,News 24
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/501/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/501/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="502" tvg-name="Good News Today" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tez.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Good News Today
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/502/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/502/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="503" tvg-name="IBC24" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IBC-24.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,IBC24
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/503/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/503/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="510" tvg-name="VIP News" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/VIP_News.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,VIP News
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/510/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/510/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="511" tvg-name="Mh One News" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mh_One_News.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Mh One News
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/511/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/511/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="512" tvg-name="India News UP" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_UP.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,India News UP
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/512/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/512/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="513" tvg-name="India News Rajasthan" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_Rajasthan.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,India News Rajasthan
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/513/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/513/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="514" tvg-name="Sony Ten 1" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Sports" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Sony Ten 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/514/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/514/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="515" tvg-name="India News MP" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_MP.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,India News MP
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/515/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/515/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="516" tvg-name="India News Haryana" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_Haryana.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,India News Haryana
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/516/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/516/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="517" tvg-name="Chardikla Time TV" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Chardikla_Time_TV.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Chardikla Time TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/517/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/517/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="518" tvg-name="Sudarshan" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sudarshan.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Sudarshan
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/518/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/518/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="519" tvg-name="Sadhna News Plus" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sadhna_News_Plus.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Sadhna News Plus
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/519/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/519/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="520" tvg-name="Sansad TV HD" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Rajyasabha.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Sansad TV HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/520/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/520/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="522" tvg-name="Sansad TV" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Loksabha_TV.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Sansad TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/522/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/522/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="523" tvg-name="Ten 2" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Sports" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Ten 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/523/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/523/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="524" tvg-name="Sony Ten 3 Hindi" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_3.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Sports" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Sony Ten 3 Hindi
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/524/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/524/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="525" tvg-name="Sony Ten 5" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Sports" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Sony Ten 5
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/525/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/525/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="527" tvg-name="Investigation Discovery Hindi" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IDHindi.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Investigation Discovery Hindi
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/527/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/527/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="528" tvg-name="DD India" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_India.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,DD India
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/528/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/528/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="529" tvg-name="News18 MP Chhattisgarh" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News18MPCG.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,News18 MP Chhattisgarh
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/529/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/529/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="530" tvg-name="News18 UP Uttarakhand" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News18UPUttarakhand.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,News18 UP Uttarakhand
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/530/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/530/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="531" tvg-name="News18 Rajasthan" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News18Rajasthan.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,News18 Rajasthan
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/531/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/531/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="533" tvg-name="Raj Pariwar" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Pariwar.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Raj Pariwar
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/533/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/533/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="536" tvg-name="DD Madhya Pradesh" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Madhya_Pradesh.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,DD Madhya Pradesh
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/536/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/536/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="538" tvg-name="DD Rajasthan (Jaipur)" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Rajasthan_Jaipur.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,DD Rajasthan (Jaipur)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/538/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/538/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="539" tvg-name="DD Bihar" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Bihar.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,DD Bihar
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/539/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/539/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="540" tvg-name="DD Uttar Pradesh" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Uttar_Pradesh.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,DD Uttar Pradesh
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/540/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/540/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="541" tvg-name="Discovery Turbo" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Infotainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Discovery Turbo
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/541/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/541/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="542" tvg-name="Pogo Tamil" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Kids" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Pogo Tamil
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/542/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/542/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="543" tvg-name="Nick Telugu" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Kids" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Nick Telugu
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/543/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/543/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="546" tvg-name="Nick Tamil" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Tamil.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Kids" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Nick Tamil
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/546/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/546/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="548" tvg-name="Nickelodeon Jr." tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Kids" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Nickelodeon Jr.
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/548/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/548/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="550" tvg-name="Discovery Kids Tamil" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryKidsTam.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Kids" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Discovery Kids Tamil
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/550/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/550/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="554" tvg-name="Discovery Kids Hindi" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryKidsHin.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Kids" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Discovery Kids Hindi
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/554/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/554/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="555" tvg-name="Chintu TV" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Chintu_TV.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Kids" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Chintu TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/555/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/555/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="556" tvg-name="Kochu TV" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kochu_TV.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Kids" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Kochu TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/556/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/556/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="557" tvg-name="Chutti TV" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Chutti_TV.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Kids" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Chutti TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/557/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/557/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="558" tvg-name="Kushi TV" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kushi_TV.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Kids" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Kushi TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/558/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/558/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="560" tvg-name="GOOD TiMES" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Good_Times.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Lifestyle" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,GOOD TiMES
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/560/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/560/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="561" tvg-name="Food Food" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Lifestyle" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Food Food
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/561/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/561/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="562" tvg-name="Travelxp HD Hindi" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Lifestyle" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Travelxp HD Hindi
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/562/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/562/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="563" tvg-name="Kaumudy TV" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kaumudy_TV.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Lifestyle" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Kaumudy TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/563/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/563/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="565" tvg-name="ETV Abhiruchi" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Lifestyle" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,ETV Abhiruchi
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/565/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/565/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="566" tvg-name="Animal Planet Hindi" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AnimalPlanetHin.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Infotainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Animal Planet Hindi
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/566/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/566/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="567" tvg-name="Animal Planet English" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AnimalPlanetEng.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Infotainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Animal Planet English
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/567/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/567/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="568" tvg-name="Discovery Science English" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryScienceEng.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Infotainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Discovery Science English
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/568/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/568/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="569" tvg-name="D Tamil" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,D Tamil
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/569/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/569/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="570" tvg-name="ETV Life" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Life.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Infotainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,ETV Life
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/570/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/570/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="571" tvg-name="TLC Hindi" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLCHindi.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Lifestyle" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,TLC Hindi
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/571/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/571/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="572" tvg-name="Zee UP UK" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Living_Foodz.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Zee UP UK
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/572/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/572/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="573" tvg-name="Discovery Bengali" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Infotainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Discovery Bengali
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/573/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/573/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="574" tvg-name="TLC English" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLCEnglish.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Lifestyle" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,TLC English
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/574/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/574/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="575" tvg-name="Discovery Hindi" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Infotainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Discovery Hindi
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/575/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/575/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="576" tvg-name="Discovery Telugu" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Infotainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Discovery Telugu
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/576/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/576/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="577" tvg-name="History TV18 HD Telugu" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Infotainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,History TV18 HD Telugu
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/577/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/577/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="578" tvg-name="History TV18 HD Hindi" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Infotainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,History TV18 HD Hindi
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/578/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/578/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="579" tvg-name="History TV18 HD Tamil" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Tamil.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Infotainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,History TV18 HD Tamil
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/579/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/579/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="580" tvg-name="DD bharati" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_bharati.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Infotainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,DD bharati
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/580/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/580/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="583" tvg-name="DD Kisan" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Kisan.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Infotainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,DD Kisan
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/583/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/583/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="585" tvg-name="Zing" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeZing.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Music" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Zing
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/585/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/585/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="592" tvg-name="ZOOM" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zoom.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Music" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,ZOOM
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/592/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/592/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="593" tvg-name="Sadhna" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sadhna.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Devotional" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Sadhna
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/593/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/593/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="594" tvg-name="Aastha Bhajan" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Bhajan.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Devotional" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Aastha Bhajan
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/594/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/594/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="595" tvg-name="Prarthana Life" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Prarthana_Life.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Devotional" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Prarthana Life
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/595/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/595/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="596" tvg-name="Jinvani TV" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jinvani_TV.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Devotional" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Jinvani TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/596/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/596/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="597" tvg-name="Satsang TV" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Satsang_TV.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Devotional" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Satsang TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/597/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/597/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="598" tvg-name="Sri Venkateshwar Bhakti" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sri_Venkateshwar_Bhakti.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Devotional" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Sri Venkateshwar Bhakti
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/598/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/598/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="599" tvg-name="Disha tv" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disha_tv.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Devotional" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Disha tv
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/599/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/599/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="601" tvg-name="Ishwar TV" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ishwar_TV.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Devotional" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Ishwar TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/601/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/601/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="602" tvg-name="Paras tv" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Paras_tv.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Devotional" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Paras tv
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/602/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/602/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="603" tvg-name="Nambikkai" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nambikkai.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Devotional" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Nambikkai
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/603/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/603/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="605" tvg-name="Channel Win" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Channel_Win.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Devotional" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Channel Win
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/605/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/605/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="606" tvg-name="Shalom" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shalom.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Devotional" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Shalom
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/606/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/606/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="607" tvg-name="Subhavartha TV" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Subhavartha_TV.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Devotional" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Subhavartha TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/607/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/607/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="608" tvg-name="Shubhsandesh TV" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shubhsandesh_TV.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Devotional" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Shubhsandesh TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/608/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/608/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="609" tvg-name="mh1 Shraddha" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/mh1_Shraddha.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Devotional" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,mh1 Shraddha
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/609/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/609/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="611" tvg-name="Darshan 24" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Darshan_24.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Devotional" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Darshan 24
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/611/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/611/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="612" tvg-name="ABP Majha" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Majha.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,ABP Majha
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/612/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/612/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="613" tvg-name="Newslive" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Newslive.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Newslive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/613/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/613/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="614" tvg-name="ETV Andhra pradesh" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,ETV Andhra pradesh
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/614/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/614/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="615" tvg-name="News18 Tamil nadu" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News18TamilNadu.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,News18 Tamil nadu
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/615/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/615/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="616" tvg-name="TV9 Gujarat" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tv_9_Gujarat.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,TV9 Gujarat
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/616/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/616/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="617" tvg-name="TV9 Maharashtra" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Maharashtra.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,TV9 Maharashtra
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/617/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/617/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="618" tvg-name="TV9 Telugu News" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,TV9 Telugu News
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/618/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/618/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="619" tvg-name="TV9 Karnataka" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Karnataka.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,TV9 Karnataka
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/619/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/619/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="620" tvg-name="News18 Gujarati" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News18Gujarati.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | News" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,News18 Gujarati
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/620/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/620/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
+
+#EXTINF:-1 tvg-id="623" tvg-name="Rang" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rang.png" group-title="🔹𝐉𝐢𝐨𝐓𝐕 | Entertainment" group-logo="https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/output5-1693920521386.jpg" catchup="append" catchup-days="8" ,Rang
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://terminal-jio.07in.workers.dev/license/test/test/623/key.json
+https://terminal-jio.07in.workers.dev/live/test/test/623/index.mpd|User-Agent=plaYtv/7.1.5 (Linux;Android 15;Version 07) ExoPlayerLib/2.11.7
