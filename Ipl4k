@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-zeemarathi" tvg-name="Zee Marathi HD" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeemarathi/list/270x152/1920x1080list41e48666669042d2a7b9725cb6bcbbc4.jpg",Zee Marathi HD
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105520/ZeeMarathiHDELE/index.m3u8?hdnts=st=1786769238~exp=1786772238~acl=/cmaf/live/2105520/ZeeMarathiHDELE/*~id=e24057cb-6b93-44bf-b55b-5662c7c5fe0b~data=non-ssai_e24057cb-6b93-44bf-b55b-5662c7c5fe0b~hmac=590e5a6ccd520ec3b19a6bb9ddffa1c57edef62e15fe3114bb6337815a13e76b&req_id=non-ssai_e24057cb-6b93-44bf-b55b-5662c7c5fe0b
+#EXTINF:-1 tvg-id="0-9-zeemarathi" tvg-name="Zee Marathi HD" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeemarathi/list/270x152/1920x1080list41e48666669042d2a7b9725cb6bcbbc4.jpg",Zee Marathi HD
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105520/ZeeMarathiHDELE/index.m3u8?hdnts=st=1786770849~exp=1786773849~acl=/cmaf/live/2105520/ZeeMarathiHDELE/*~id=76e7b24c-2e2f-4a26-bfcc-de27c3fc0e3f~data=non-ssai_76e7b24c-2e2f-4a26-bfcc-de27c3fc0e3f~hmac=9b1ae849d1ab6d6c501a1d342b7ce1a54d948d13309059e8340a57182bdb448c&req_id=non-ssai_76e7b24c-2e2f-4a26-bfcc-de27c3fc0e3f
